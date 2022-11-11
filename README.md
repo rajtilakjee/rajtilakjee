@@ -1,1 +1,1 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rajtilakjee&show_icons=true) &nbsp; ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakjee)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rajtilakjee&show_icons=true) &nbsp;&nbsp; ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakjee)

@@ -13,14 +13,15 @@ Hey there! I am Rajtilak Bhattacharjee. Call me Raj. Thank you for stopping by. 
  - A Teaching Assistant for a Deep Learning course in association with ClouxLab and IIT-Roorkee
 
 🥇 However, I am a Coder by heart.<br/>
-🔮 I am also an open-sourcerer. Which is why, you'll see that majority of my work here is open-source. Feel free to adopt any one you like.<br/>
+🔮 You'll see that majority of my work here is open-source. Feel free to adopt any one you like.<br/>
 
 ## Tech Stack
 
 **Programming Languages** - Python, Scala, SQL, Markdown, VBA<br/>
-**Frameworks and Libraries** - Scikit-learn, Numy, Pandas, TensorFlow, PRAW, Discord.py, Hadoop<br/>
+**Frameworks and Libraries** - Scikit-learn, Numy, Pandas, TensorFlow, PRAW, Discord.py, Hadoop, BeautifulSoup<br/>
 **Databases and Cloud Hosting** - MySQL, GitHub Pages, MongoDB, Notion<br/>
 **Software and other Tools** - Spark, Discord, Git, GitHub Desktop, Jupyter, Advanced Excel<br/>
+**Visualization** - Tableau, Matplotlib, Seaborn<br/>
 
 ## GitHub Stats and Activities
 

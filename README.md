@@ -8,7 +8,7 @@ Hey there! I am Rajtilak Bhattacharjee. Call me Raj. Thank you for stopping by. 
 😁 I started coding in the 80's since I was in school.<br/>
 🗣️ I have around 20 years of work experience.<br/>
 👨‍💻 In these 20 years, I have played numerous roles including
- - A Manager for a Data Science Team at PriceWaterhouseCoopers
+ - A Manager for a Data Science Team at PricewaterhouseCoopers
  - A Machine Learning Engineer, and
  - A Teaching Assistant for a Deep Learning course in association with ClouxLab and IIT-Roorkee
 
